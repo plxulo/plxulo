@@ -13,6 +13,10 @@
 
   ♾️ DevOps: Amazon Web Services, GIT, GitHub
 
+  ## Learning
+
+  Svelte, Flask
+
   ## Find me
 
   <p align="left">
