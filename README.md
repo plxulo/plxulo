@@ -3,6 +3,8 @@
   ## 👋 Hello! I'm Paulo!
   ### 🇧🇷 Software developer
 
+> mathematics, web development, art
+
   I'm a web development intern and student at Federal University of Santa Catarina, Brazil.
   I'm currently learning and looking up to become a full cycle developer
 
