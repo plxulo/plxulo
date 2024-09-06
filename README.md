@@ -17,7 +17,7 @@
 
   ## Learning
 
-  Svelte, Flask
+  Svelte, Flask, C
 
   ## Find me
 
