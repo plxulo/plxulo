@@ -1,7 +1,6 @@
 <div>
 
   ## 👋 Hello! I'm Paulo!
-  ### 🇧🇷 Software developer
 
 > mathematics, web development, art
 
