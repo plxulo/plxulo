@@ -1,21 +1,8 @@
 <div>
-
   ## 👋 Hello! I'm Paulo!
 
   I'm a web development intern and student at Federal University of Santa Catarina, Brazil.
   I'm currently learning and looking up to become a full cycle developer
-
-  ## Skills
-
-  💻 Applications and data: Php, React, Javascript, Typescript, TailwindCSS, SQL, MongoDB, HTML5
-
-  ⚒️ Tools and utilities: Visual Studio Code, Figma, Linear, Trello, Postman, Obsidian
-
-  ♾️ DevOps: Amazon Web Services, GIT, GitHub
-
-  ## Learning
-
-  Svelte, Flask, C, Docker 🐳
 
   ## Find me
 
