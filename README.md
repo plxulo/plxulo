@@ -13,6 +13,7 @@
     <a href="https://linkedin.com/in/paulo-amarante" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/paulo-amarante" alt="LinkedIn"/></a>
   </p>
-
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Zna3c3Y2VtdjkzaThwMGR6aHNwbmE0MWJnaTA4aGttemdiYm44ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" height="250">
+  <div align="right">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Zna3c3Y2VtdjkzaThwMGR6aHNwbmE0MWJnaTA4aGttemdiYm44ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" height="250">
+  </div>
 </div>
