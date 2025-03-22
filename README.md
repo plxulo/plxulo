@@ -5,6 +5,10 @@
   I'm a web developer and student at Federal University of Santa Catarina, Brazil.
   I'm currently learning and looking up to become a full cycle developer
 
+  ## Useful links
+
+  [No links yet 🦫](https://github.com/plxulo)
+
   ## Find me
 
   <p align="left">
